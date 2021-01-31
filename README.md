@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sniperhorus&theme=dark&show_icons=true)
 ### Hi there, I'm Mauricio  👋
 
 ## I'm a Techie, Sysadmin, and DJ!!
