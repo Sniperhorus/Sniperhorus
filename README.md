@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate and learn with other people
 - 🥅 2021 Goals: Become DevOps Engineer
-- ⚡ Fun fact: I love to mix music
+- ⚡ Fun fact: I love to mix music!
 
 ### Spotify Playing 🎧
 
